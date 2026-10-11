@@ -1,0 +1,9 @@
+{
+  "name": "aether-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter aether-web dev",
+    "build": "pnpm --filter aether-web build",
+    "start": "pnpm --filter aether-web start"
+  }
+}
